@@ -1,5 +1,5 @@
 {
-  "name": "paper",
+  "name": "paper-component",
   "version": "1.0.0",
   "authors": [
     "Vu Anh <brother.rain.1024@gmail.com>"
@@ -9,6 +9,9 @@
     "component"
   ],
   "license": "MIT",
+  "main": [
+    "paper.css"
+  ],
   "ignore": [
     "**/.*",
     "node_modules",
